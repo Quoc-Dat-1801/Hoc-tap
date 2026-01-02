@@ -1,9 +1,9 @@
 # BÀI THỰC HÀNH SỐ 2: TÌM HIỂU VỀ GIT & GITHUB
 
 ##  Thông tin sinh viên
-- **Họ và tên:** [Điền tên bạn vào đây]
-- **Mã số sinh viên:** [Điền MSSV]
-- **Lớp:** [Điền tên lớp]
+- **Họ và tên:** Nguyễn Hòng Quốc Đạt
+- **Mã số sinh viên:** 079207031575
+- **Lớp:** 010108010411
 
 ##  Nội dung đã thực hiện
 - [x] Tạo tài khoản GitHub thành công.
